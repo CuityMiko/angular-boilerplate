@@ -6,7 +6,7 @@
 
 # .bowerrc文件可以指定bower的安装路径
 
-# package.json中scripts的test是启动brower-sync服务，来测试页面同步效果，操作：
+# package.json中scripts的test是启动browser-sync服务，来测试页面同步效果，操作：
     -> 1.npm test
 
 # .gitattributes是git在commit时候需要忽略的文件
